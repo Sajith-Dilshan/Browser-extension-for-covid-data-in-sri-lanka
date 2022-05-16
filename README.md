@@ -12,9 +12,7 @@ https://www.hpb.health.gov.lk/en/api-documentation
 
 ### How to use this repo?
 
-1. Clone the repository first  'git clone'
-
-``https://github.com/Sajith-Dilshan/Browser-extension-for-covid-data-in-sri-lanka.git``
+1. Clone the repository first  'git clone' ``https://github.com/Sajith-Dilshan/Browser-extension-for-covid-data-in-sri-lanka.git``
 
 2. Once cloned,Go to browser and Select More Tools and then choose Extensions from the browser menu.
 
